@@ -1,0 +1,16 @@
+Produced by: gear studio
+e-mail: gear2nd.droid@gmail.com
+
+This is an add-in for Fusion360. By selecting multiple pitch circles, it places spur gears at the location of those pitch circles. It also automatically meshes the spur gears together.
+
+Follow the steps below to use the add-ins.
+(1) You draw multiple circles on the sketch so that the pitch circles are adjacent to each other.
+(2) You execute the add-in "Multi spur gear".
+(3) You select multiple pitch circles in an order that takes into account the meshing relationship.
+(4) You set various parameters of the spur gear.
+(5) You execute the add-in "Multi spur gear".
+
+explanatory note
+・The consideration of the meshing relationship of the later selected pitch circle is taken into account when the center-to-center distance meshes with the previously selected pitch circle.
+・Multiple pitch circles with independent meshing relationships can be selected together.
+・Depending on the sketch plane, the meshing relationship may not be handled properly. Please be aware of this.
