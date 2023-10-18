@@ -5,6 +5,7 @@ This add-in converts multiple pitch circles into multiple spur gears.
 [Download here](https://apps.autodesk.com/FUSION/ja/Detail/Index?id=7314852226762229274&appLang=en&os=Win64)
 
 <a href="https://www.buymeacoffee.com/gear2nddrow"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=gear2nddrow&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+[Paypal.me](https://www.paypal.com/paypalme/geekgear)
 
 [![MultiSpurGear](https://user-images.githubusercontent.com/1283295/216289217-90b0026d-43ef-4732-9f10-034f8cb6e6db.png)](https://www.youtube.com/watch?v=7OqLYwQwUVQ)
 
